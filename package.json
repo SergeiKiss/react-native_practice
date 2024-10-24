@@ -1,0 +1,13 @@
+{
+  "name": "react-native_practice",
+  "version": "1.0.0",
+  "description": "Lab 2: Creating a List Using FlatList",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiKiss/react-native_practice.git"
+  },
+  "author": "SergeiKiss",
+  "license": "ISC"
+}
